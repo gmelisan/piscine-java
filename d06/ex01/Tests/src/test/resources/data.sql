@@ -1,0 +1,16 @@
+INSERT INTO product (name, price) VALUES ('TIJ', 10);
+INSERT INTO product (name, price) VALUES ('Bracelet', 15);
+INSERT INTO product (name, price) VALUES ('Shopper', 21);
+INSERT INTO product (name, price) VALUES ('Eco cup', 30);
+INSERT INTO product (name, price) VALUES ('Badge', 30);
+INSERT INTO product (name, price) VALUES ('Popsocket', 40);
+INSERT INTO product (name, price) VALUES ('Cardholder', 40);
+INSERT INTO product (name, price) VALUES ('Notebook', 55);
+INSERT INTO product (name, price) VALUES ('T-shirt', 130);
+INSERT INTO product (name, price) VALUES ('Polo', 150);
+INSERT INTO product (name, price) VALUES ('Sweatshirt', 160);
+INSERT INTO product (name, price) VALUES ('Hoodie', 200);
+INSERT INTO product (name, price) VALUES ('Power bank', 300);
+INSERT INTO product (name, price) VALUES ('Backpack', 350);
+INSERT INTO product (name, price) VALUES ('Golden status', 600);
+INSERT INTO product (name, price) VALUES ('Why be a king when you can be a god? ', 1021);

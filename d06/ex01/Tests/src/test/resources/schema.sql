@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS product CASCADE;
+
+CREATE TABLE product (
+    id INTEGER IDENTITY PRIMARY KEY,
+    name VARCHAR(64),
+    price INTEGER
+);
